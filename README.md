@@ -9,6 +9,7 @@
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [1207-unique-number-of-occurrences](https://github.com/Prerna-2801/problem-solved/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prerna-2801/problem-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 ## Two Pointers
 |  |
@@ -63,4 +64,8 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+## String
+|  |
+| ------- |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 <!---LeetCode Topics End-->
