@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -35,9 +36,18 @@
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0100-same-tree) |
+| [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0100-same-tree) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
