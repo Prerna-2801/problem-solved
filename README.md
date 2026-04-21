@@ -42,6 +42,7 @@
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
@@ -54,6 +55,7 @@
 | [0101-symmetric-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0101-symmetric-tree) |
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
 ## Binary Tree
@@ -66,6 +68,7 @@
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
@@ -122,6 +125,7 @@
 ## Binary Search Tree
 |  |
 | ------- |
+| [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0450-delete-node-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0450-delete-node-in-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0701-insert-into-a-binary-search-tree) |
