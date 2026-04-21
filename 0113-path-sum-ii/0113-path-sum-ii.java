@@ -23,7 +23,6 @@ class Solution {
     public void f(TreeNode root, List<List<Integer>> ans, List<Integer> path, int targetSum){
         if(root == null) return;
         path.add(root.val);
-        int idx = 0;
         if(root.left == null && root.right == null && root.val == targetSum){
             ans.add(new ArrayList<>(path));
         }
