@@ -17,7 +17,7 @@ class Solution {
     public TreeNode bstFromPreorder(int[] preorder) {
         TreeNode root = new TreeNode(preorder[0]);
         for(int i = 1; i<preorder.length; i++){
-            TreeNode node = insertIntoBST(root, preorder[i]);
+            insertIntoBST(root, preorder[i]);
         }
         return root;
     }
