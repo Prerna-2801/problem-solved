@@ -48,6 +48,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -80,6 +81,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
+| [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -128,6 +130,7 @@
 ## Design
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -144,6 +147,7 @@
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0450-delete-node-in-a-bst) |
@@ -157,9 +161,14 @@
 ## Stack
 |  |
 | ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+## Iterator
+|  |
+| ------- |
+| [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 <!---LeetCode Topics End-->
