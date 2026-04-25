@@ -22,12 +22,14 @@
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0001-two-sum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/Prerna-2801/problem-solved/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -55,6 +57,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -70,6 +73,7 @@
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
 | ------- |
@@ -88,6 +92,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0450-delete-node-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0450-delete-node-in-a-bst) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -100,6 +105,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
 |  |
 | ------- |
@@ -151,6 +157,7 @@
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0450-delete-node-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0450-delete-node-in-a-bst) |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0700-search-in-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0700-search-in-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0701-insert-into-a-binary-search-tree) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
