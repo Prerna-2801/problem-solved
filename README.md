@@ -21,6 +21,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prerna-2801/problem-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Two Pointers
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 | [1207-unique-number-of-occurrences](https://github.com/Prerna-2801/problem-solved/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prerna-2801/problem-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
 |  |
@@ -219,6 +221,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Prerna-2801/problem-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Prerna-2801/problem-solved/tree/master/1672-richest-customer-wealth) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 ## Simulation
 |  |
 | ------- |
