@@ -31,6 +31,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prerna-2801/problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0876-middle-of-the-linked-list) |
@@ -39,6 +40,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prerna-2801/problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -252,6 +254,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/0002-add-two-numbers) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Prerna-2801/problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0876-middle-of-the-linked-list) |
 ## Recursion
