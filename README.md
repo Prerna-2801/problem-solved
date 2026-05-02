@@ -189,6 +189,7 @@
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/Prerna-2801/problem-solved/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
@@ -228,6 +229,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
+| [0155-min-stack](https://github.com/Prerna-2801/problem-solved/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
