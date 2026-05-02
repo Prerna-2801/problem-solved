@@ -14,6 +14,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
 | [0724-find-pivot-index](https://github.com/Prerna-2801/problem-solved/tree/master/0724-find-pivot-index) |
+| [0739-daily-temperatures](https://github.com/Prerna-2801/problem-solved/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0867-transpose-matrix) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -226,11 +227,13 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Prerna-2801/problem-solved/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Prerna-2801/problem-solved/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Iterator
 |  |
