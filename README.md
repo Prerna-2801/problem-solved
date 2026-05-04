@@ -14,6 +14,7 @@
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
+| [0704-binary-search](https://github.com/Prerna-2801/problem-solved/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prerna-2801/problem-solved/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Prerna-2801/problem-solved/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
@@ -161,6 +162,7 @@
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0704-binary-search](https://github.com/Prerna-2801/problem-solved/tree/master/0704-binary-search) |
 ## Bit Manipulation
 |  |
 | ------- |
