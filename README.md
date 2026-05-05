@@ -91,6 +91,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-2801/problem-solved/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
@@ -116,6 +117,7 @@
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-2801/problem-solved/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
@@ -143,6 +145,7 @@
 | [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-2801/problem-solved/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0226-invert-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0226-invert-binary-tree) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
@@ -163,6 +166,7 @@
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-2801/problem-solved/tree/master/0199-binary-tree-right-side-view) |
+| [0226-invert-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0226-invert-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Search
