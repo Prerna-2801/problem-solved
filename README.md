@@ -12,6 +12,7 @@
 | [0039-combination-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0040-combination-sum-ii) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prerna-2801/problem-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -189,6 +190,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -231,6 +233,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0040-combination-sum-ii) |
+| [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
 |  |
