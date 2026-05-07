@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/Prerna-2801/problem-solved/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Prerna-2801/problem-solved/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -110,6 +111,7 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0098-validate-binary-search-tree) |
 | [0099-recover-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0099-recover-binary-search-tree) |
@@ -201,6 +203,7 @@
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
+| [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -238,6 +241,7 @@
 | [0040-combination-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Prerna-2801/problem-solved/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
+| [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
 ## Binary Search Tree
@@ -292,6 +296,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0867-transpose-matrix) |
