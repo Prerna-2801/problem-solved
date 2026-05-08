@@ -210,6 +210,7 @@
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prerna-2801/problem-solved/tree/master/1704-determine-if-string-halves-are-alike) |
@@ -282,6 +283,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prerna-2801/problem-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
+| [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0739-daily-temperatures](https://github.com/Prerna-2801/problem-solved/tree/master/0739-daily-temperatures) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Monotonic Stack
@@ -299,6 +301,7 @@
 |  |
 | ------- |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
 | ------- |
@@ -344,5 +347,6 @@
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
+| [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prerna-2801/problem-solved/tree/master/0860-lemonade-change) |
 <!---LeetCode Topics End-->
