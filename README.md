@@ -29,6 +29,7 @@
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
+| [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/Prerna-2801/problem-solved/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prerna-2801/problem-solved/tree/master/0724-find-pivot-index) |
 | [0739-daily-temperatures](https://github.com/Prerna-2801/problem-solved/tree/master/0739-daily-temperatures) |
@@ -75,6 +76,7 @@
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
+| [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [1207-unique-number-of-occurrences](https://github.com/Prerna-2801/problem-solved/tree/master/1207-unique-number-of-occurrences) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -87,6 +89,7 @@
 | ------- |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
+| [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 ## Tree
@@ -211,6 +214,7 @@
 | [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0090-subsets-ii) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
+| [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 ## String
