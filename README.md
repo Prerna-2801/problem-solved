@@ -14,6 +14,7 @@
 | [0046-permutations](https://github.com/Prerna-2801/problem-solved/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Prerna-2801/problem-solved/tree/master/0051-n-queens) |
 | [0054-spiral-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Prerna-2801/problem-solved/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
@@ -321,6 +322,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prerna-2801/problem-solved/tree/master/0055-jump-game) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
@@ -371,6 +373,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Prerna-2801/problem-solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prerna-2801/problem-solved/tree/master/0860-lemonade-change) |
