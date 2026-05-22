@@ -78,6 +78,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-2801/problem-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prerna-2801/problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
+| [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
@@ -95,6 +96,7 @@
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
+| [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prerna-2801/problem-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -232,6 +234,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-2801/problem-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
+| [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
