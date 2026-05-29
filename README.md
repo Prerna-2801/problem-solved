@@ -11,6 +11,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0039-combination-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0040-combination-sum-ii) |
+| [0045-jump-game-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Prerna-2801/problem-solved/tree/master/0046-permutations) |
 | [0051-n-queens](https://github.com/Prerna-2801/problem-solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
@@ -343,6 +344,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prerna-2801/problem-solved/tree/master/0055-jump-game) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-2801/problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -399,6 +401,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/Prerna-2801/problem-solved/tree/master/0055-jump-game) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
