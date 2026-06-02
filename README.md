@@ -68,6 +68,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Two Pointers
 |  |
 | ------- |
@@ -84,6 +85,7 @@
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0876-middle-of-the-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -122,6 +124,7 @@
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
 |  |
 | ------- |
@@ -239,6 +242,7 @@
 | [0704-binary-search](https://github.com/Prerna-2801/problem-solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Prerna-2801/problem-solved/tree/master/0875-koko-eating-bananas) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prerna-2801/problem-solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -414,6 +418,7 @@
 | [0860-lemonade-change](https://github.com/Prerna-2801/problem-solved/tree/master/0860-lemonade-change) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Sliding Window
 |  |
 | ------- |
