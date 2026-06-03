@@ -17,6 +17,7 @@
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Prerna-2801/problem-solved/tree/master/0055-jump-game) |
+| [0056-merge-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0056-merge-intervals) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
@@ -113,6 +114,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0056-merge-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0217-contains-duplicate](https://github.com/Prerna-2801/problem-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
