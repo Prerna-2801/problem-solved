@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/0004-median-of-two-sorted-arrays) |
+| [0015-3sum](https://github.com/Prerna-2801/problem-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prerna-2801/problem-solved/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0033-search-in-rotated-sorted-array) |
@@ -79,6 +80,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prerna-2801/problem-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prerna-2801/problem-solved/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prerna-2801/problem-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -127,6 +129,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Prerna-2801/problem-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prerna-2801/problem-solved/tree/master/0018-4sum) |
 | [0056-merge-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
