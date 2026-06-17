@@ -10,7 +10,7 @@ class Solution {
             int block_size = factorial(list.size()-1);
             int idx = k/block_size;
             sb.append(list.get(idx));
-            list.remove(list.get(idx));
+            list.remove(idx);
             k = k % block_size;
 
         }
