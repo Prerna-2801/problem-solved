@@ -16,10 +16,10 @@ class Solution {
         }
         return sb.toString();
     }
-    public int factorial(int n) {
+    public int factorial(int n){
         int fact = 1;
-        for (int i = 1; i <= n; i++) {
-            fact = fact * i;
+        for(int i = 1; i <= n; i++){
+            fact = fact*i;
         }
         return fact;
     }
