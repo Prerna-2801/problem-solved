@@ -290,6 +290,7 @@
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-2801/problem-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
+| [0131-palindrome-partitioning](https://github.com/Prerna-2801/problem-solved/tree/master/0131-palindrome-partitioning) |
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
@@ -336,6 +337,7 @@
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0090-subsets-ii) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Prerna-2801/problem-solved/tree/master/0131-palindrome-partitioning) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -397,6 +399,7 @@
 | [0062-unique-paths](https://github.com/Prerna-2801/problem-solved/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-2801/problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0131-palindrome-partitioning](https://github.com/Prerna-2801/problem-solved/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Prerna-2801/problem-solved/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
