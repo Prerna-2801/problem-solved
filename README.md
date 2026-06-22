@@ -38,6 +38,7 @@
 | [0162-find-peak-element](https://github.com/Prerna-2801/problem-solved/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Prerna-2801/problem-solved/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prerna-2801/problem-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prerna-2801/problem-solved/tree/master/0238-product-of-array-except-self) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
@@ -145,6 +146,7 @@
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Prerna-2801/problem-solved/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prerna-2801/problem-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
@@ -365,6 +367,7 @@
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0169-majority-element](https://github.com/Prerna-2801/problem-solved/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0493-reverse-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/0493-reverse-pairs) |
 ## Stack
 |  |
@@ -520,4 +523,12 @@
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
