@@ -100,6 +100,7 @@
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
+| [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
@@ -151,6 +152,7 @@
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/Prerna-2801/problem-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
+| [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
@@ -328,6 +330,7 @@
 | [0155-min-stack](https://github.com/Prerna-2801/problem-solved/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0232-implement-queue-using-stacks](https://github.com/Prerna-2801/problem-solved/tree/master/0232-implement-queue-using-stacks) |
+| [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
 ## Prefix Sum
 |  |
@@ -532,6 +535,7 @@
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
@@ -542,4 +546,8 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
+## Data Stream
+|  |
+| ------- |
+| [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 <!---LeetCode Topics End-->
