@@ -121,6 +121,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Prerna-2801/problem-solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prerna-2801/problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Prerna-2801/problem-solved/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Prerna-2801/problem-solved/tree/master/0217-contains-duplicate) |
@@ -328,6 +329,7 @@
 ## Design
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/Prerna-2801/problem-solved/tree/master/0155-min-stack) |
 | [0173-binary-search-tree-iterator](https://github.com/Prerna-2801/problem-solved/tree/master/0173-binary-search-tree-iterator) |
 | [0225-implement-stack-using-queues](https://github.com/Prerna-2801/problem-solved/tree/master/0225-implement-stack-using-queues) |
@@ -460,6 +462,7 @@
 | [0138-copy-list-with-random-pointer](https://github.com/Prerna-2801/problem-solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0142-linked-list-cycle-ii) |
+| [0146-lru-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Prerna-2801/problem-solved/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
@@ -533,6 +536,7 @@
 ## Doubly-Linked List
 |  |
 | ------- |
+| [0146-lru-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 ## Heap (Priority Queue)
 |  |
