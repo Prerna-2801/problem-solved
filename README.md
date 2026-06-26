@@ -129,6 +129,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0460-lfu-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0460-lfu-cache) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
@@ -336,6 +337,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prerna-2801/problem-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
+| [0460-lfu-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0460-lfu-cache) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -468,6 +470,7 @@
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0460-lfu-cache) |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -538,6 +541,7 @@
 | ------- |
 | [0146-lru-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0146-lru-cache) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [0460-lfu-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0460-lfu-cache) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
