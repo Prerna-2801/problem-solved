@@ -88,6 +88,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prerna-2801/problem-solved/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/Prerna-2801/problem-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prerna-2801/problem-solved/tree/master/0018-4sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Prerna-2801/problem-solved/tree/master/0019-remove-nth-node-from-end-of-list) |
@@ -306,6 +307,7 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-2801/problem-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0005-longest-palindromic-substring](https://github.com/Prerna-2801/problem-solved/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
@@ -427,6 +429,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0005-longest-palindromic-substring](https://github.com/Prerna-2801/problem-solved/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/Prerna-2801/problem-solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
