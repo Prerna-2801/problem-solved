@@ -227,6 +227,7 @@
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0543-diameter-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0543-diameter-of-binary-tree) |
+| [0547-number-of-provinces](https://github.com/Prerna-2801/problem-solved/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 ## Binary Tree
 |  |
@@ -275,6 +276,7 @@
 | [0226-invert-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Prerna-2801/problem-solved/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
+| [0547-number-of-provinces](https://github.com/Prerna-2801/problem-solved/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0994-rotting-oranges](https://github.com/Prerna-2801/problem-solved/tree/master/0994-rotting-oranges) |
 ## Binary Search
@@ -533,6 +535,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0128-longest-consecutive-sequence) |
+| [0547-number-of-provinces](https://github.com/Prerna-2801/problem-solved/tree/master/0547-number-of-provinces) |
 ## Combinatorics
 |  |
 | ------- |
@@ -584,4 +587,8 @@
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/Prerna-2801/problem-solved/tree/master/0239-sliding-window-maximum) |
+## Graph Theory
+|  |
+| ------- |
+| [0547-number-of-provinces](https://github.com/Prerna-2801/problem-solved/tree/master/0547-number-of-provinces) |
 <!---LeetCode Topics End-->
