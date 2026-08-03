@@ -121,6 +121,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-2801/problem-solved/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0012-integer-to-roman](https://github.com/Prerna-2801/problem-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Prerna-2801/problem-solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0073-set-matrix-zeroes) |
@@ -316,6 +317,7 @@
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Prerna-2801/problem-solved/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Prerna-2801/problem-solved/tree/master/0005-longest-palindromic-substring) |
+| [0012-integer-to-roman](https://github.com/Prerna-2801/problem-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
@@ -511,6 +513,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/0002-add-two-numbers) |
+| [0012-integer-to-roman](https://github.com/Prerna-2801/problem-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Prerna-2801/problem-solved/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0060-permutation-sequence) |
