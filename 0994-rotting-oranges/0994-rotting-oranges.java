@@ -2,40 +2,37 @@ class Solution {
     public int orangesRotting(int[][] grid) {
         int n = grid.length;
         int m = grid[0].length;
-        boolean changed;
-        int elapsedTime = 0;
-        int[][] directions = {{1, 0}, {0, 1}, {-1, 0}, {0, -1}};
-        while (true) {
-            changed = false;
-            for (int i = 0; i < n; i++) {
-                for (int j = 0; j < m; j++) {
-                    if (grid[i][j] == elapsedTime + 2) {
-                        for (int[] dir : directions) {
-                            int x = i + dir[0];
-                            int y = j + dir[1];
-                            if (isSafe(x, y, n, m) && grid[x][y] == 1) {
-                                grid[x][y] = grid[i][j] + 1;
-                                changed = true;
-                            }
-                        }
-                    }
-                }
-            }
-            if (!changed) {
-                break;
-            }
-            elapsedTime++;
-        }
-        for (int i = 0; i < n; i++) {
-            for (int j = 0; j < m; j++) {
-                if (grid[i][j] == 1) {
-                    return -1;
-                }
+        Queue<int[]> q = new LinkedList<>();
+        int freshCnt = 0;
+        for(int i = 0; i<n; i++){
+            for(int j = 0; j<m; j++){
+                if(grid[i][j] == 1) freshCnt++;
+                else if(grid[i][j] == 2) q.offer(new int[]{i,j});
             }
         }
-        return elapsedTime;
-    }
-    private boolean isSafe(int i, int j, int n, int m) {
-        return 0 <= i && i < n && 0 <= j && j < m;
+        if(freshCnt == 0) return 0;
+        int time = 0;
+        while(!q.isEmpty()){
+            int size = q.size();
+            for(int i = 0; i<size; i++){
+                int[] rottenLoc = q.poll();
+                int r = rottenLoc[0];
+                int c = rottenLoc[1];
+                int[][] neighbors = {{r-1,c},{r+1,c},{r,c+1},{r,c-1}};
+                for(int[] neighbor: neighbors){
+                    int nr = neighbor[0];
+                    int nc = neighbor[1];
+                    if(nr < 0 || nr >= n || nc < 0 || nc >= m || grid[nr][nc] == 2 || grid[nr][nc] == 0){
+                        continue;
+                    } 
+                    q.offer(new int[]{nr,nc});
+                    grid[nr][nc] = 2;
+                    freshCnt--;
+                    if(freshCnt == 0) return time+1;
+                }
+            }
+            time++;
+        }
+        return -1;
     }
 }
