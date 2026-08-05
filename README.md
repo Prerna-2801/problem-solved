@@ -33,6 +33,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-2801/problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Prerna-2801/problem-solved/tree/master/0130-surrounded-regions) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Prerna-2801/problem-solved/tree/master/0162-find-peak-element) |
@@ -221,6 +222,7 @@
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0113-path-sum-ii) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0130-surrounded-regions](https://github.com/Prerna-2801/problem-solved/tree/master/0130-surrounded-regions) |
 | [0144-binary-tree-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/0145-binary-tree-postorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-2801/problem-solved/tree/master/0199-binary-tree-right-side-view) |
@@ -278,6 +280,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
+| [0130-surrounded-regions](https://github.com/Prerna-2801/problem-solved/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-2801/problem-solved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Prerna-2801/problem-solved/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0226-invert-binary-tree) |
@@ -462,6 +465,7 @@
 | [0054-spiral-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0054-spiral-matrix) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
+| [0130-surrounded-regions](https://github.com/Prerna-2801/problem-solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prerna-2801/problem-solved/tree/master/0200-number-of-islands) |
 | [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
@@ -550,6 +554,7 @@
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0128-longest-consecutive-sequence) |
+| [0130-surrounded-regions](https://github.com/Prerna-2801/problem-solved/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/Prerna-2801/problem-solved/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Prerna-2801/problem-solved/tree/master/0547-number-of-provinces) |
 ## Combinatorics
