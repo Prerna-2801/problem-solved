@@ -53,6 +53,7 @@
 | [0485-max-consecutive-ones](https://github.com/Prerna-2801/problem-solved/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/0493-reverse-pairs) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
+| [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
 | [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
@@ -282,6 +283,7 @@
 | [0226-invert-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0226-invert-binary-tree) |
 | [0322-coin-change](https://github.com/Prerna-2801/problem-solved/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Prerna-2801/problem-solved/tree/master/0404-sum-of-left-leaves) |
+| [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/Prerna-2801/problem-solved/tree/master/0547-number-of-provinces) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Prerna-2801/problem-solved/tree/master/0733-flood-fill) |
@@ -450,6 +452,7 @@
 | [0131-palindrome-partitioning](https://github.com/Prerna-2801/problem-solved/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Prerna-2801/problem-solved/tree/master/0322-coin-change) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
+| [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 ## Matrix
 |  |
@@ -460,6 +463,7 @@
 | [0073-set-matrix-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/Prerna-2801/problem-solved/tree/master/0200-number-of-islands) |
+| [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
 | [0733-flood-fill](https://github.com/Prerna-2801/problem-solved/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
