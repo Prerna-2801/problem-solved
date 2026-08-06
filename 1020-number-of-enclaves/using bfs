@@ -1,0 +1,43 @@
+class Solution {
+    public int numEnclaves(int[][] grid) {
+        int m = grid.length;
+        int n = grid[0].length;
+        boolean[][] vis = new boolean[m][n];
+        Queue<int[]> queue = new LinkedList<>();
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (i == 0 || i == m - 1 || j == 0 || j == n - 1) {
+                    if (grid[i][j] == 1) {
+                        queue.offer(new int[]{i, j});
+                        vis[i][j] = true;
+                    }
+                }
+            }
+        }
+        int[] delRow = {-1, 1, 0, 0};
+        int[] delCol = {0, 0, -1, 1};
+        while (!queue.isEmpty()) {
+            int[] cell = queue.poll();
+            int r = cell[0];
+            int c = cell[1];
+            for (int i = 0; i < 4; i++) {
+                int nrow = r + delRow[i];
+                int ncol = c + delCol[i];
+                if (nrow >= 0 && nrow < m && ncol >= 0 && ncol < n 
+                    && !vis[nrow][ncol] && grid[nrow][ncol] == 1) {
+                    vis[nrow][ncol] = true;
+                    queue.offer(new int[]{nrow, ncol});
+                }
+            }
+        }
+        int cnt = 0;
+        for (int i = 0; i < m; i++) {
+            for (int j = 0; j < n; j++) {
+                if (grid[i][j] == 1 && !vis[i][j]) {
+                    cnt++;
+                }
+            }
+        }
+        return cnt;
+    }
+}
