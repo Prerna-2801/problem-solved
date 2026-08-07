@@ -346,6 +346,7 @@
 | [0169-majority-element](https://github.com/Prerna-2801/problem-solved/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [1603-design-parking-system](https://github.com/Prerna-2801/problem-solved/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prerna-2801/problem-solved/tree/master/1704-determine-if-string-halves-are-alike) |
 ## Queue
@@ -367,6 +368,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Prerna-2801/problem-solved/tree/master/0901-online-stock-span) |
+| [1603-design-parking-system](https://github.com/Prerna-2801/problem-solved/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -489,6 +491,7 @@
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0867-transpose-matrix) |
+| [1603-design-parking-system](https://github.com/Prerna-2801/problem-solved/tree/master/1603-design-parking-system) |
 | [1929-concatenation-of-array](https://github.com/Prerna-2801/problem-solved/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
