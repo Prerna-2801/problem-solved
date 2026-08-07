@@ -1,14 +1,6 @@
 class Solution {
     public boolean isBipartite(int[][] graph) {
         int n = graph.length;
-        // ArrayList<ArrayList<Integer>> adj = new ArrayList<>();
-        // for(int i = 0; i<n; i++){
-        //     adj.add(new ArrayList<>());
-        // }
-        // for(int[] e: graph){
-        //     adj.get(e[0]).add(e[1]);
-        //     adj.get(e[1]).add(e[0]);
-        // }
         int[] color = new int[n];
         Arrays.fill(color, -1);
         Queue<Integer> q = new LinkedList<>();
