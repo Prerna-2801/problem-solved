@@ -128,6 +128,7 @@
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Prerna-2801/problem-solved/tree/master/0037-sudoku-solver) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0073-set-matrix-zeroes) |
+| [0127-word-ladder](https://github.com/Prerna-2801/problem-solved/tree/master/0127-word-ladder) |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prerna-2801/problem-solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
@@ -286,6 +287,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0107-binary-tree-level-order-traversal-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0107-binary-tree-level-order-traversal-ii) |
 | [0112-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0112-path-sum) |
+| [0127-word-ladder](https://github.com/Prerna-2801/problem-solved/tree/master/0127-word-ladder) |
 | [0130-surrounded-regions](https://github.com/Prerna-2801/problem-solved/tree/master/0130-surrounded-regions) |
 | [0199-binary-tree-right-side-view](https://github.com/Prerna-2801/problem-solved/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Prerna-2801/problem-solved/tree/master/0200-number-of-islands) |
@@ -337,6 +339,7 @@
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
+| [0127-word-ladder](https://github.com/Prerna-2801/problem-solved/tree/master/0127-word-ladder) |
 | [0131-palindrome-partitioning](https://github.com/Prerna-2801/problem-solved/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
@@ -659,4 +662,8 @@
 |  |
 | ------- |
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
+## Bidirectional Search
+|  |
+| ------- |
+| [0127-word-ladder](https://github.com/Prerna-2801/problem-solved/tree/master/0127-word-ladder) |
 <!---LeetCode Topics End-->
