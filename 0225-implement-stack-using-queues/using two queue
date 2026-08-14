@@ -1,0 +1,45 @@
+class MyStack {
+    Queue<Integer> q;
+    Queue<Integer> q2;
+    public MyStack() {
+        q = new LinkedList<>();
+        q2 = new LinkedList<>();
+    }
+    
+    public void push(int x) {
+        if(q.isEmpty()) q.offer(x);
+        else{
+            while(!q.isEmpty()){
+                q2.offer(q.poll());
+            }
+            q.offer(x);
+            while(!q2.isEmpty()){
+                q.offer(q2.poll());
+            }
+        }
+    }
+    
+    public int pop() {
+        if(q.isEmpty()) return -1;
+        return q.poll();
+    }
+    
+    public int top() {
+        if(q.isEmpty()) return -1;
+        return q.peek();
+    }
+    
+    public boolean empty() {
+        if(q.isEmpty()) return true;
+        return false;
+    }
+}
+
+/**
+ * Your MyStack object will be instantiated and called as such:
+ * MyStack obj = new MyStack();
+ * obj.push(x);
+ * int param_2 = obj.pop();
+ * int param_3 = obj.top();
+ * boolean param_4 = obj.empty();
+ */
