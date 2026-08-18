@@ -653,6 +653,7 @@
 | [0785-is-graph-bipartite](https://github.com/Prerna-2801/problem-solved/tree/master/0785-is-graph-bipartite) |
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Prerna-2801/problem-solved/tree/master/0997-find-the-town-judge) |
+| [1791-find-center-of-star-graph](https://github.com/Prerna-2801/problem-solved/tree/master/1791-find-center-of-star-graph) |
 ## Graph Coloring
 |  |
 | ------- |
