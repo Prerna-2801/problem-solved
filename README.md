@@ -81,6 +81,7 @@
 | [1572-matrix-diagonal-sum](https://github.com/Prerna-2801/problem-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
+| [1646-get-maximum-in-generated-array](https://github.com/Prerna-2801/problem-solved/tree/master/1646-get-maximum-in-generated-array) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1672-richest-customer-wealth](https://github.com/Prerna-2801/problem-solved/tree/master/1672-richest-customer-wealth) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
@@ -531,6 +532,7 @@
 | [0867-transpose-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0867-transpose-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prerna-2801/problem-solved/tree/master/1260-shift-2d-grid) |
 | [1603-design-parking-system](https://github.com/Prerna-2801/problem-solved/tree/master/1603-design-parking-system) |
+| [1646-get-maximum-in-generated-array](https://github.com/Prerna-2801/problem-solved/tree/master/1646-get-maximum-in-generated-array) |
 | [1701-average-waiting-time](https://github.com/Prerna-2801/problem-solved/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/Prerna-2801/problem-solved/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
