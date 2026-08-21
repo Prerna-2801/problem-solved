@@ -68,6 +68,7 @@
 | [0860-lemonade-change](https://github.com/Prerna-2801/problem-solved/tree/master/0860-lemonade-change) |
 | [0867-transpose-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Prerna-2801/problem-solved/tree/master/0875-koko-eating-bananas) |
+| [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Prerna-2801/problem-solved/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Prerna-2801/problem-solved/tree/master/0997-find-the-town-judge) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -127,6 +128,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0876-middle-of-the-linked-list) |
+| [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -710,4 +712,8 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
