@@ -260,6 +260,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Prerna-2801/problem-solved/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Prerna-2801/problem-solved/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
 | [1020-number-of-enclaves](https://github.com/Prerna-2801/problem-solved/tree/master/1020-number-of-enclaves) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
@@ -321,6 +322,7 @@
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0733-flood-fill](https://github.com/Prerna-2801/problem-solved/tree/master/0733-flood-fill) |
 | [0785-is-graph-bipartite](https://github.com/Prerna-2801/problem-solved/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
 | [0994-rotting-oranges](https://github.com/Prerna-2801/problem-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Prerna-2801/problem-solved/tree/master/1020-number-of-enclaves) |
@@ -505,6 +507,7 @@
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 ## Matrix
 |  |
 | ------- |
@@ -654,6 +657,7 @@
 | [0239-sliding-window-maximum](https://github.com/Prerna-2801/problem-solved/tree/master/0239-sliding-window-maximum) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
 |  |
@@ -680,6 +684,7 @@
 | [0210-course-schedule-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0210-course-schedule-ii) |
 | [0547-number-of-provinces](https://github.com/Prerna-2801/problem-solved/tree/master/0547-number-of-provinces) |
 | [0785-is-graph-bipartite](https://github.com/Prerna-2801/problem-solved/tree/master/0785-is-graph-bipartite) |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Prerna-2801/problem-solved/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Prerna-2801/problem-solved/tree/master/1791-find-center-of-star-graph) |
@@ -722,4 +727,8 @@
 |  |
 | ------- |
 | [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
+## Shortest Path
+|  |
+| ------- |
+| [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 <!---LeetCode Topics End-->
