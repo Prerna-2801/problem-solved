@@ -98,6 +98,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
+| [2740-find-the-value-of-the-partition](https://github.com/Prerna-2801/problem-solved/tree/master/2740-find-the-value-of-the-partition) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
@@ -194,6 +195,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
+| [2740-find-the-value-of-the-partition](https://github.com/Prerna-2801/problem-solved/tree/master/2740-find-the-value-of-the-partition) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Tree
