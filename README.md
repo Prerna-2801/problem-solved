@@ -590,6 +590,7 @@
 | [0060-permutation-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Prerna-2801/problem-solved/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
+| [2525-categorize-box-according-to-criteria](https://github.com/Prerna-2801/problem-solved/tree/master/2525-categorize-box-according-to-criteria) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
 |  |
