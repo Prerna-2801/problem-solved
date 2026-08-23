@@ -99,6 +99,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
 | [2740-find-the-value-of-the-partition](https://github.com/Prerna-2801/problem-solved/tree/master/2740-find-the-value-of-the-partition) |
+| [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
@@ -171,6 +172,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prerna-2801/problem-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Sorting
@@ -391,6 +393,7 @@
 | [1603-design-parking-system](https://github.com/Prerna-2801/problem-solved/tree/master/1603-design-parking-system) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prerna-2801/problem-solved/tree/master/1704-determine-if-string-halves-are-alike) |
+| [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 ## Queue
 |  |
 | ------- |
@@ -593,6 +596,7 @@
 | [0062-unique-paths](https://github.com/Prerna-2801/problem-solved/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Prerna-2801/problem-solved/tree/master/2525-categorize-box-according-to-criteria) |
+| [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 ## Greedy
 |  |
@@ -736,4 +740,8 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
+## Number Theory
+|  |
+| ------- |
+| [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 <!---LeetCode Topics End-->
