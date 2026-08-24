@@ -16,23 +16,6 @@ class Solution {
         list.add(new int[]{arr[n - 1], cnt});
         list.sort((a, b) -> b[1] - a[1]);
         int target = n/2;
-        // int ans = Integer.MAX_VALUE;
-        // for(int i = 0; i<list.size()-1; i++){
-        //     int sum = 0;
-        //     cnt = 1;
-        //     for(int j = i; j<list.size()-1; j++){
-        //         int[] a = list.get(j);
-        //         sum += a[1];
-        //         if(sum == target){
-        //             ans = Math.min(ans, cnt);
-        //         }
-        //         else if(sum > target){
-        //             sum -= a[1];
-        //             continue;
-        //         }
-        //         else cnt++;
-        //     }
-        // }
         int ans = 0,  sum = 0;
         for(int[] e: list){
             sum += e[1];
