@@ -549,6 +549,7 @@
 | [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
 | ------- |
@@ -742,6 +743,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
 | [0997-find-the-town-judge](https://github.com/Prerna-2801/problem-solved/tree/master/0997-find-the-town-judge) |
 | [1791-find-center-of-star-graph](https://github.com/Prerna-2801/problem-solved/tree/master/1791-find-center-of-star-graph) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Graph Coloring
 |  |
 | ------- |
@@ -756,6 +758,7 @@
 | [0207-course-schedule](https://github.com/Prerna-2801/problem-solved/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0210-course-schedule-ii) |
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Directed Acyclic Graph
 |  |
 | ------- |
@@ -777,6 +780,7 @@
 |  |
 | ------- |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Sweep Line
 |  |
 | ------- |
@@ -785,6 +789,7 @@
 |  |
 | ------- |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Number Theory
 |  |
 | ------- |
