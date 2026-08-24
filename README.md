@@ -107,6 +107,7 @@
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
+| [3788-maximum-score-of-a-split](https://github.com/Prerna-2801/problem-solved/tree/master/3788-maximum-score-of-a-split) |
 ## Two Pointers
 |  |
 | ------- |
@@ -441,6 +442,7 @@
 | [1991-find-the-middle-index-in-array](https://github.com/Prerna-2801/problem-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
+| [3788-maximum-score-of-a-split](https://github.com/Prerna-2801/problem-solved/tree/master/3788-maximum-score-of-a-split) |
 ## Backtracking
 |  |
 | ------- |
