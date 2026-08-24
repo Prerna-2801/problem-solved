@@ -70,6 +70,7 @@
 | [0867-transpose-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0867-transpose-matrix) |
 | [0875-koko-eating-bananas](https://github.com/Prerna-2801/problem-solved/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Prerna-2801/problem-solved/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Prerna-2801/problem-solved/tree/master/0997-find-the-town-judge) |
@@ -203,6 +204,7 @@
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
 | [0912-sort-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prerna-2801/problem-solved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prerna-2801/problem-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -487,6 +489,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
 | [0493-reverse-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/0493-reverse-pairs) |
 | [0912-sort-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 ## Stack
 |  |
 | ------- |
@@ -620,6 +623,7 @@
 | [0060-permutation-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Prerna-2801/problem-solved/tree/master/0062-unique-paths) |
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Prerna-2801/problem-solved/tree/master/2525-categorize-box-according-to-criteria) |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
@@ -697,6 +701,7 @@
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [0912-sort-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0912-sort-an-array) |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prerna-2801/problem-solved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
 ## Quickselect
@@ -704,6 +709,7 @@
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -792,4 +798,12 @@
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0912-sort-an-array) |
+## Geometry
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
+## K-D Tree
+|  |
+| ------- |
+| [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 <!---LeetCode Topics End-->
