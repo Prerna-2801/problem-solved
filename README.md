@@ -377,6 +377,7 @@
 | [0012-integer-to-roman](https://github.com/Prerna-2801/problem-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0126-word-ladder-ii) |
 | [0127-word-ladder](https://github.com/Prerna-2801/problem-solved/tree/master/0127-word-ladder) |
@@ -435,6 +436,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0022-generate-parentheses) |
 | [0037-sudoku-solver](https://github.com/Prerna-2801/problem-solved/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0040-combination-sum-ii) |
@@ -510,6 +512,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Prerna-2801/problem-solved/tree/master/0005-longest-palindromic-substring) |
+| [0022-generate-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0022-generate-parentheses) |
 | [0042-trapping-rain-water](https://github.com/Prerna-2801/problem-solved/tree/master/0042-trapping-rain-water) |
 | [0045-jump-game-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0045-jump-game-ii) |
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
@@ -754,4 +757,8 @@
 |  |
 | ------- |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
