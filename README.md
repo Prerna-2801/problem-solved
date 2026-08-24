@@ -61,6 +61,7 @@
 | [0566-reshape-the-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0566-reshape-the-matrix) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 | [0704-binary-search](https://github.com/Prerna-2801/problem-solved/tree/master/0704-binary-search) |
 | [0724-find-pivot-index](https://github.com/Prerna-2801/problem-solved/tree/master/0724-find-pivot-index) |
 | [0733-flood-fill](https://github.com/Prerna-2801/problem-solved/tree/master/0733-flood-fill) |
@@ -174,6 +175,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
 | [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
+| [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Prerna-2801/problem-solved/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0930-binary-subarrays-with-sum) |
 | [0997-find-the-town-judge](https://github.com/Prerna-2801/problem-solved/tree/master/0997-find-the-town-judge) |
@@ -401,6 +403,7 @@
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
+| [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
@@ -810,4 +813,8 @@
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
+## Trie
+|  |
+| ------- |
+| [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 <!---LeetCode Topics End-->
