@@ -546,6 +546,7 @@
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/Prerna-2801/problem-solved/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Prerna-2801/problem-solved/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Prerna-2801/problem-solved/tree/master/0070-climbing-stairs) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-2801/problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Prerna-2801/problem-solved/tree/master/0131-palindrome-partitioning) |
@@ -634,6 +635,7 @@
 | [0048-rotate-image](https://github.com/Prerna-2801/problem-solved/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0060-permutation-sequence) |
 | [0062-unique-paths](https://github.com/Prerna-2801/problem-solved/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Prerna-2801/problem-solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
@@ -828,4 +830,8 @@
 |  |
 | ------- |
 | [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Prerna-2801/problem-solved/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
