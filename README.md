@@ -213,6 +213,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prerna-2801/problem-solved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prerna-2801/problem-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Prerna-2801/problem-solved/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -409,6 +410,7 @@
 | [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
+| [1451-rearrange-words-in-a-sentence](https://github.com/Prerna-2801/problem-solved/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1662-check-if-two-string-arrays-are-equivalent](https://github.com/Prerna-2801/problem-solved/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prerna-2801/problem-solved/tree/master/1704-determine-if-string-halves-are-alike) |
