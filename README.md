@@ -101,6 +101,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
@@ -185,6 +186,7 @@
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
@@ -213,6 +215,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prerna-2801/problem-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2740-find-the-value-of-the-partition](https://github.com/Prerna-2801/problem-solved/tree/master/2740-find-the-value-of-the-partition) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
@@ -712,6 +715,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prerna-2801/problem-solved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
+| [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Quickselect
 |  |
 | ------- |
