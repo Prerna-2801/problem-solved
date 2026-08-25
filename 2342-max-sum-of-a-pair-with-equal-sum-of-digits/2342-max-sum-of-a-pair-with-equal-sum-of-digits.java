@@ -12,6 +12,7 @@ class Solution {
             }
             if(map.containsKey(val)){
                 max = Math.max(max, nums[i]+map.get(val));
+                //We need this line because a single digit sum can appear three or more times in the array, and we always want to pair the current number with the largest previous number
                 map.put(val, Math.max(nums[i], map.get(val)));
             }
             else map.put(val, nums[i]);
