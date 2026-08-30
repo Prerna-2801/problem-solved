@@ -106,6 +106,7 @@
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2740-find-the-value-of-the-partition](https://github.com/Prerna-2801/problem-solved/tree/master/2740-find-the-value-of-the-partition) |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
@@ -461,6 +462,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0930-binary-subarrays-with-sum) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prerna-2801/problem-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
+| [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
 | [3788-maximum-score-of-a-split](https://github.com/Prerna-2801/problem-solved/tree/master/3788-maximum-score-of-a-split) |
 ## Backtracking
