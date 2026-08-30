@@ -99,6 +99,7 @@
 | [1929-concatenation-of-array](https://github.com/Prerna-2801/problem-solved/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prerna-2801/problem-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2109-adding-spaces-to-a-string) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/2319-check-if-matrix-is-x-matrix) |
@@ -148,6 +149,7 @@
 | [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
 | [1768-merge-strings-alternately](https://github.com/Prerna-2801/problem-solved/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2109-adding-spaces-to-a-string) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 ## Hash Table
@@ -419,6 +421,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1704-determine-if-string-halves-are-alike](https://github.com/Prerna-2801/problem-solved/tree/master/1704-determine-if-string-halves-are-alike) |
 | [1768-merge-strings-alternately](https://github.com/Prerna-2801/problem-solved/tree/master/1768-merge-strings-alternately) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2390-removing-stars-from-a-string) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prerna-2801/problem-solved/tree/master/3120-count-the-number-of-special-characters-i) |
 ## Counting
@@ -602,6 +605,7 @@
 | [1701-average-waiting-time](https://github.com/Prerna-2801/problem-solved/tree/master/1701-average-waiting-time) |
 | [1929-concatenation-of-array](https://github.com/Prerna-2801/problem-solved/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
+| [2109-adding-spaces-to-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2109-adding-spaces-to-a-string) |
 | [2390-removing-stars-from-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 ## Linked List
