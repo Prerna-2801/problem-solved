@@ -96,6 +96,7 @@
 | [1684-count-the-number-of-consistent-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1684-count-the-number-of-consistent-strings) |
 | [1701-average-waiting-time](https://github.com/Prerna-2801/problem-solved/tree/master/1701-average-waiting-time) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Prerna-2801/problem-solved/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Prerna-2801/problem-solved/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [1929-concatenation-of-array](https://github.com/Prerna-2801/problem-solved/tree/master/1929-concatenation-of-array) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prerna-2801/problem-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
@@ -668,6 +669,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prerna-2801/problem-solved/tree/master/0860-lemonade-change) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prerna-2801/problem-solved/tree/master/1338-reduce-array-size-to-the-half) |
+| [1899-merge-triplets-to-form-target-triplet](https://github.com/Prerna-2801/problem-solved/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
