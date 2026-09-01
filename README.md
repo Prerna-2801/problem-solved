@@ -34,6 +34,7 @@
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Prerna-2801/problem-solved/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/Prerna-2801/problem-solved/tree/master/0128-longest-consecutive-sequence) |
 | [0130-surrounded-regions](https://github.com/Prerna-2801/problem-solved/tree/master/0130-surrounded-regions) |
+| [0136-single-number](https://github.com/Prerna-2801/problem-solved/tree/master/0136-single-number) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/Prerna-2801/problem-solved/tree/master/0162-find-peak-element) |
@@ -390,6 +391,7 @@
 | ------- |
 | [0078-subsets](https://github.com/Prerna-2801/problem-solved/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0090-subsets-ii) |
+| [0136-single-number](https://github.com/Prerna-2801/problem-solved/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [0645-set-mismatch](https://github.com/Prerna-2801/problem-solved/tree/master/0645-set-mismatch) |
