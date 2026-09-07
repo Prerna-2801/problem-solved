@@ -48,6 +48,7 @@
 | [0217-contains-duplicate](https://github.com/Prerna-2801/problem-solved/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Prerna-2801/problem-solved/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/Prerna-2801/problem-solved/tree/master/0239-sliding-window-maximum) |
+| [0283-move-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Prerna-2801/problem-solved/tree/master/0322-coin-change) |
@@ -143,6 +144,7 @@
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Prerna-2801/problem-solved/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
