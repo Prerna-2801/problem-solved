@@ -146,6 +146,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/Prerna-2801/problem-solved/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -423,6 +424,7 @@
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0392-is-subsequence](https://github.com/Prerna-2801/problem-solved/tree/master/0392-is-subsequence) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
@@ -573,6 +575,7 @@
 | [0124-binary-tree-maximum-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0131-palindrome-partitioning](https://github.com/Prerna-2801/problem-solved/tree/master/0131-palindrome-partitioning) |
 | [0322-coin-change](https://github.com/Prerna-2801/problem-solved/tree/master/0322-coin-change) |
+| [0392-is-subsequence](https://github.com/Prerna-2801/problem-solved/tree/master/0392-is-subsequence) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
 | [0542-01-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0542-01-matrix) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
