@@ -91,6 +91,7 @@
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Prerna-2801/problem-solved/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prerna-2801/problem-solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1470-shuffle-the-array](https://github.com/Prerna-2801/problem-solved/tree/master/1470-shuffle-the-array) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/Prerna-2801/problem-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
 | [1636-sort-array-by-increasing-frequency](https://github.com/Prerna-2801/problem-solved/tree/master/1636-sort-array-by-increasing-frequency) |
@@ -584,6 +585,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prerna-2801/problem-solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
 |  |
@@ -700,6 +702,7 @@
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Prerna-2801/problem-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0930-binary-subarrays-with-sum) |
+| [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
 ## Counting Sort
 |  |
