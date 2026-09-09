@@ -678,6 +678,7 @@
 | [2525-categorize-box-according-to-criteria](https://github.com/Prerna-2801/problem-solved/tree/master/2525-categorize-box-according-to-criteria) |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3871-count-commas-in-range-ii](https://github.com/Prerna-2801/problem-solved/tree/master/3871-count-commas-in-range-ii) |
 ## Greedy
 |  |
 | ------- |
