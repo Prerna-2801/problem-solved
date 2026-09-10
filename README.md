@@ -80,6 +80,7 @@
 | [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Prerna-2801/problem-solved/tree/master/0994-rotting-oranges) |
 | [0997-find-the-town-judge](https://github.com/Prerna-2801/problem-solved/tree/master/0997-find-the-town-judge) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prerna-2801/problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prerna-2801/problem-solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1020-number-of-enclaves](https://github.com/Prerna-2801/problem-solved/tree/master/1020-number-of-enclaves) |
@@ -394,6 +395,7 @@
 | [0493-reverse-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Prerna-2801/problem-solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Prerna-2801/problem-solved/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prerna-2801/problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Prerna-2801/problem-solved/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
@@ -481,6 +483,7 @@
 | [0560-subarray-sum-equals-k](https://github.com/Prerna-2801/problem-solved/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Prerna-2801/problem-solved/tree/master/0724-find-pivot-index) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prerna-2801/problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1991-find-the-middle-index-in-array](https://github.com/Prerna-2801/problem-solved/tree/master/1991-find-the-middle-index-in-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
 | [2640-find-the-score-of-all-prefixes-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2640-find-the-score-of-all-prefixes-of-an-array) |
@@ -705,6 +708,7 @@
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
 | [0643-maximum-average-subarray-i](https://github.com/Prerna-2801/problem-solved/tree/master/0643-maximum-average-subarray-i) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0930-binary-subarrays-with-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/Prerna-2801/problem-solved/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna-2801/problem-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
