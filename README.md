@@ -123,6 +123,7 @@
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/Prerna-2801/problem-solved/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/3364-minimum-positive-sum-subarray) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/3483-unique-3-digit-even-numbers) |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/Prerna-2801/problem-solved/tree/master/3633-earliest-finish-time-for-land-and-water-rides-i) |
 | [3788-maximum-score-of-a-split](https://github.com/Prerna-2801/problem-solved/tree/master/3788-maximum-score-of-a-split) |
 ## Two Pointers
@@ -209,6 +210,7 @@
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
 | [3120-count-the-number-of-special-characters-i](https://github.com/Prerna-2801/problem-solved/tree/master/3120-count-the-number-of-special-characters-i) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Sorting
 |  |
 | ------- |
@@ -667,6 +669,7 @@
 | [0143-reorder-list](https://github.com/Prerna-2801/problem-solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
 | ------- |
@@ -896,4 +899,8 @@
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prerna-2801/problem-solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Enumeration
+|  |
+| ------- |
+| [3483-unique-3-digit-even-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
