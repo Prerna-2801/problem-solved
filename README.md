@@ -114,6 +114,7 @@
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Prerna-2801/problem-solved/tree/master/2348-number-of-zero-filled-subarrays) |
+| [2352-equal-row-and-column-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2352-equal-row-and-column-pairs) |
 | [2410-maximum-matching-of-players-with-trainers](https://github.com/Prerna-2801/problem-solved/tree/master/2410-maximum-matching-of-players-with-trainers) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/Prerna-2801/problem-solved/tree/master/2574-left-and-right-sum-differences) |
@@ -210,6 +211,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2352-equal-row-and-column-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2352-equal-row-and-column-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 | [2784-check-if-array-is-good](https://github.com/Prerna-2801/problem-solved/tree/master/2784-check-if-array-is-good) |
@@ -630,6 +632,7 @@
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/2319-check-if-matrix-is-x-matrix) |
+| [2352-equal-row-and-column-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2352-equal-row-and-column-pairs) |
 ## Simulation
 |  |
 | ------- |
@@ -644,6 +647,7 @@
 | [1929-concatenation-of-array](https://github.com/Prerna-2801/problem-solved/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2109-adding-spaces-to-a-string) |
+| [2352-equal-row-and-column-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
 ## Linked List
