@@ -445,6 +445,7 @@
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Prerna-2801/problem-solved/tree/master/0392-is-subsequence) |
+| [0394-decode-string](https://github.com/Prerna-2801/problem-solved/tree/master/0394-decode-string) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
@@ -565,6 +566,7 @@
 | [0225-implement-stack-using-queues](https://github.com/Prerna-2801/problem-solved/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/Prerna-2801/problem-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Prerna-2801/problem-solved/tree/master/0394-decode-string) |
 | [0496-next-greater-element-i](https://github.com/Prerna-2801/problem-solved/tree/master/0496-next-greater-element-i) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0581-shortest-unsorted-continuous-subarray) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
@@ -684,6 +686,7 @@
 | [0143-reorder-list](https://github.com/Prerna-2801/problem-solved/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/0234-palindrome-linked-list) |
+| [0394-decode-string](https://github.com/Prerna-2801/problem-solved/tree/master/0394-decode-string) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/3483-unique-3-digit-even-numbers) |
 ## Math
 |  |
