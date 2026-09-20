@@ -477,6 +477,7 @@
 | [0232-implement-queue-using-stacks](https://github.com/Prerna-2801/problem-solved/tree/master/0232-implement-queue-using-stacks) |
 | [0239-sliding-window-maximum](https://github.com/Prerna-2801/problem-solved/tree/master/0239-sliding-window-maximum) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
+| [0933-number-of-recent-calls](https://github.com/Prerna-2801/problem-solved/tree/master/0933-number-of-recent-calls) |
 ## Design
 |  |
 | ------- |
@@ -489,6 +490,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
 | [0460-lfu-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0460-lfu-cache) |
 | [0901-online-stock-span](https://github.com/Prerna-2801/problem-solved/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Prerna-2801/problem-solved/tree/master/0933-number-of-recent-calls) |
 | [1603-design-parking-system](https://github.com/Prerna-2801/problem-solved/tree/master/1603-design-parking-system) |
 ## Prefix Sum
 |  |
@@ -805,6 +807,7 @@
 | ------- |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0901-online-stock-span](https://github.com/Prerna-2801/problem-solved/tree/master/0901-online-stock-span) |
+| [0933-number-of-recent-calls](https://github.com/Prerna-2801/problem-solved/tree/master/0933-number-of-recent-calls) |
 ## Monotonic Queue
 |  |
 | ------- |
