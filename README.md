@@ -155,6 +155,7 @@
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Prerna-2801/problem-solved/tree/master/0392-is-subsequence) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
@@ -443,6 +444,7 @@
 | [0165-compare-version-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/0165-compare-version-numbers) |
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/Prerna-2801/problem-solved/tree/master/0392-is-subsequence) |
 | [0394-decode-string](https://github.com/Prerna-2801/problem-solved/tree/master/0394-decode-string) |
