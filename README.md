@@ -288,6 +288,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Prerna-2801/problem-solved/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prerna-2801/problem-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Depth-First Search
@@ -327,6 +328,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Prerna-2801/problem-solved/tree/master/0802-find-eventual-safe-states) |
 | [0872-leaf-similar-trees](https://github.com/Prerna-2801/problem-solved/tree/master/0872-leaf-similar-trees) |
 | [1020-number-of-enclaves](https://github.com/Prerna-2801/problem-solved/tree/master/1020-number-of-enclaves) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Prerna-2801/problem-solved/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
@@ -366,6 +368,7 @@
 | [0783-minimum-distance-between-bst-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0872-leaf-similar-trees](https://github.com/Prerna-2801/problem-solved/tree/master/0872-leaf-similar-trees) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1448-count-good-nodes-in-binary-tree) |
 | [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Prerna-2801/problem-solved/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 ## Breadth-First Search
@@ -622,6 +625,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prerna-2801/problem-solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
@@ -939,4 +943,8 @@
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/3483-unique-3-digit-even-numbers) |
+## DP on Trees
+|  |
+| ------- |
+| [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 <!---LeetCode Topics End-->
