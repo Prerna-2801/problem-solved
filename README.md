@@ -114,6 +114,7 @@
 | [2133-check-if-every-row-and-column-contains-all-numbers](https://github.com/Prerna-2801/problem-solved/tree/master/2133-check-if-every-row-and-column-contains-all-numbers) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/2215-find-the-difference-of-two-arrays) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2319-check-if-matrix-is-x-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/2319-check-if-matrix-is-x-matrix) |
 | [2342-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/Prerna-2801/problem-solved/tree/master/2342-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Prerna-2801/problem-solved/tree/master/2348-number-of-zero-filled-subarrays) |
@@ -677,6 +678,7 @@
 | [1929-concatenation-of-array](https://github.com/Prerna-2801/problem-solved/tree/master/1929-concatenation-of-array) |
 | [2022-convert-1d-array-into-2d-array](https://github.com/Prerna-2801/problem-solved/tree/master/2022-convert-1d-array-into-2d-array) |
 | [2109-adding-spaces-to-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2109-adding-spaces-to-a-string) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2352-equal-row-and-column-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2352-equal-row-and-column-pairs) |
 | [2390-removing-stars-from-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2390-removing-stars-from-a-string) |
 | [2553-separate-the-digits-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2553-separate-the-digits-in-an-array) |
@@ -727,6 +729,7 @@
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Prerna-2801/problem-solved/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Prerna-2801/problem-solved/tree/master/2525-categorize-box-according-to-criteria) |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
@@ -784,6 +787,7 @@
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Prerna-2801/problem-solved/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2221-find-triangular-sum-of-an-array) |
 ## Binary Indexed Tree
 |  |
 | ------- |
@@ -905,6 +909,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2748-number-of-beautiful-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/2748-number-of-beautiful-pairs) |
 ## Bracket Sequences
 |  |
