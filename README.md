@@ -476,6 +476,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Prerna-2801/problem-solved/tree/master/1154-day-of-the-year) |
+| [1360-number-of-days-between-two-dates](https://github.com/Prerna-2801/problem-solved/tree/master/1360-number-of-days-between-two-dates) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Prerna-2801/problem-solved/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna-2801/problem-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1657-determine-if-two-strings-are-close](https://github.com/Prerna-2801/problem-solved/tree/master/1657-determine-if-two-strings-are-close) |
@@ -735,6 +736,7 @@
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Prerna-2801/problem-solved/tree/master/1154-day-of-the-year) |
+| [1360-number-of-days-between-two-dates](https://github.com/Prerna-2801/problem-solved/tree/master/1360-number-of-days-between-two-dates) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2348-number-of-zero-filled-subarrays](https://github.com/Prerna-2801/problem-solved/tree/master/2348-number-of-zero-filled-subarrays) |
 | [2525-categorize-box-according-to-criteria](https://github.com/Prerna-2801/problem-solved/tree/master/2525-categorize-box-according-to-criteria) |
