@@ -476,6 +476,7 @@
 | [0567-permutation-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/0567-permutation-in-string) |
 | [0648-replace-words](https://github.com/Prerna-2801/problem-solved/tree/master/0648-replace-words) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prerna-2801/problem-solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Prerna-2801/problem-solved/tree/master/1154-day-of-the-year) |
 | [1360-number-of-days-between-two-dates](https://github.com/Prerna-2801/problem-solved/tree/master/1360-number-of-days-between-two-dates) |
@@ -603,6 +604,7 @@
 | [0735-asteroid-collision](https://github.com/Prerna-2801/problem-solved/tree/master/0735-asteroid-collision) |
 | [0739-daily-temperatures](https://github.com/Prerna-2801/problem-solved/tree/master/0739-daily-temperatures) |
 | [0901-online-stock-span](https://github.com/Prerna-2801/problem-solved/tree/master/0901-online-stock-span) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prerna-2801/problem-solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2390-removing-stars-from-a-string) |
@@ -758,6 +760,7 @@
 | [0605-can-place-flowers](https://github.com/Prerna-2801/problem-solved/tree/master/0605-can-place-flowers) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0860-lemonade-change](https://github.com/Prerna-2801/problem-solved/tree/master/0860-lemonade-change) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prerna-2801/problem-solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1338-reduce-array-size-to-the-half](https://github.com/Prerna-2801/problem-solved/tree/master/1338-reduce-array-size-to-the-half) |
 | [1899-merge-triplets-to-form-target-triplet](https://github.com/Prerna-2801/problem-solved/tree/master/1899-merge-triplets-to-form-target-triplet) |
 | [2144-minimum-cost-of-buying-candies-with-discount](https://github.com/Prerna-2801/problem-solved/tree/master/2144-minimum-cost-of-buying-candies-with-discount) |
@@ -927,6 +930,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0022-generate-parentheses) |
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
+| [0921-minimum-add-to-make-parentheses-valid](https://github.com/Prerna-2801/problem-solved/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 ## Euclidean Algorithm
 |  |
 | ------- |
