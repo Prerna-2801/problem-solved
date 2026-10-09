@@ -19,6 +19,7 @@
 | [0045-jump-game-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0045-jump-game-ii) |
 | [0046-permutations](https://github.com/Prerna-2801/problem-solved/tree/master/0046-permutations) |
 | [0048-rotate-image](https://github.com/Prerna-2801/problem-solved/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/Prerna-2801/problem-solved/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/Prerna-2801/problem-solved/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0054-spiral-matrix) |
@@ -184,6 +185,7 @@
 | [0012-integer-to-roman](https://github.com/Prerna-2801/problem-solved/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0037-sudoku-solver](https://github.com/Prerna-2801/problem-solved/tree/master/0037-sudoku-solver) |
+| [0049-group-anagrams](https://github.com/Prerna-2801/problem-solved/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/Prerna-2801/problem-solved/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/Prerna-2801/problem-solved/tree/master/0076-minimum-window-substring) |
 | [0126-word-ladder-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0126-word-ladder-ii) |
@@ -231,6 +233,7 @@
 | ------- |
 | [0015-3sum](https://github.com/Prerna-2801/problem-solved/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Prerna-2801/problem-solved/tree/master/0018-4sum) |
+| [0049-group-anagrams](https://github.com/Prerna-2801/problem-solved/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/Prerna-2801/problem-solved/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Prerna-2801/problem-solved/tree/master/0088-merge-sorted-array) |
@@ -459,6 +462,7 @@
 | [0013-roman-to-integer](https://github.com/Prerna-2801/problem-solved/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/0022-generate-parentheses) |
+| [0049-group-anagrams](https://github.com/Prerna-2801/problem-solved/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/Prerna-2801/problem-solved/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/Prerna-2801/problem-solved/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0126-word-ladder-ii) |
