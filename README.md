@@ -711,6 +711,7 @@
 | [0021-merge-two-sorted-lists](https://github.com/Prerna-2801/problem-solved/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Prerna-2801/problem-solved/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/Prerna-2801/problem-solved/tree/master/0061-rotate-list) |
+| [0083-remove-duplicates-from-sorted-list](https://github.com/Prerna-2801/problem-solved/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0138-copy-list-with-random-pointer](https://github.com/Prerna-2801/problem-solved/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Prerna-2801/problem-solved/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/Prerna-2801/problem-solved/tree/master/0142-linked-list-cycle-ii) |
