@@ -481,6 +481,7 @@
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
 | [1154-day-of-the-year](https://github.com/Prerna-2801/problem-solved/tree/master/1154-day-of-the-year) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Prerna-2801/problem-solved/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [1360-number-of-days-between-two-dates](https://github.com/Prerna-2801/problem-solved/tree/master/1360-number-of-days-between-two-dates) |
 | [1451-rearrange-words-in-a-sentence](https://github.com/Prerna-2801/problem-solved/tree/master/1451-rearrange-words-in-a-sentence) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Prerna-2801/problem-solved/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
@@ -610,6 +611,7 @@
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/Prerna-2801/problem-solved/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1021-remove-outermost-parentheses](https://github.com/Prerna-2801/problem-solved/tree/master/1021-remove-outermost-parentheses) |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/Prerna-2801/problem-solved/tree/master/1047-remove-all-adjacent-duplicates-in-string) |
+| [1209-remove-all-adjacent-duplicates-in-string-ii](https://github.com/Prerna-2801/problem-solved/tree/master/1209-remove-all-adjacent-duplicates-in-string-ii) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/Prerna-2801/problem-solved/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/2390-removing-stars-from-a-string) |
 ## Monotonic Stack
