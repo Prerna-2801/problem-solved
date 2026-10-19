@@ -57,6 +57,7 @@
 | [0303-range-sum-query-immutable](https://github.com/Prerna-2801/problem-solved/tree/master/0303-range-sum-query-immutable) |
 | [0322-coin-change](https://github.com/Prerna-2801/problem-solved/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
@@ -166,6 +167,7 @@
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/Prerna-2801/problem-solved/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/Prerna-2801/problem-solved/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Prerna-2801/problem-solved/tree/master/0443-string-compression) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
@@ -206,6 +208,7 @@
 | [0217-contains-duplicate](https://github.com/Prerna-2801/problem-solved/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/Prerna-2801/problem-solved/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0460-lfu-cache](https://github.com/Prerna-2801/problem-solved/tree/master/0460-lfu-cache) |
@@ -249,6 +252,7 @@
 | [0242-valid-anagram](https://github.com/Prerna-2801/problem-solved/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/Prerna-2801/problem-solved/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Prerna-2801/problem-solved/tree/master/0581-shortest-unsorted-continuous-subarray) |
@@ -439,6 +443,7 @@
 | [0209-minimum-size-subarray-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0209-minimum-size-subarray-sum) |
 | [0222-count-complete-tree-nodes](https://github.com/Prerna-2801/problem-solved/tree/master/0222-count-complete-tree-nodes) |
 | [0287-find-the-duplicate-number](https://github.com/Prerna-2801/problem-solved/tree/master/0287-find-the-duplicate-number) |
+| [0349-intersection-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0493-reverse-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/0493-reverse-pairs) |
 | [0704-binary-search](https://github.com/Prerna-2801/problem-solved/tree/master/0704-binary-search) |
 | [0875-koko-eating-bananas](https://github.com/Prerna-2801/problem-solved/tree/master/0875-koko-eating-bananas) |
