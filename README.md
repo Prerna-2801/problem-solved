@@ -63,6 +63,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/Prerna-2801/problem-solved/tree/master/0349-intersection-of-two-arrays) |
 | [0435-non-overlapping-intervals](https://github.com/Prerna-2801/problem-solved/tree/master/0435-non-overlapping-intervals) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0455-assign-cookies](https://github.com/Prerna-2801/problem-solved/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/Prerna-2801/problem-solved/tree/master/0485-max-consecutive-ones) |
 | [0493-reverse-pairs](https://github.com/Prerna-2801/problem-solved/tree/master/0493-reverse-pairs) |
@@ -779,6 +780,7 @@
 | [0070-climbing-stairs](https://github.com/Prerna-2801/problem-solved/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/Prerna-2801/problem-solved/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Prerna-2801/problem-solved/tree/master/0202-happy-number) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Prerna-2801/problem-solved/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0509-fibonacci-number](https://github.com/Prerna-2801/problem-solved/tree/master/0509-fibonacci-number) |
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Prerna-2801/problem-solved/tree/master/1071-greatest-common-divisor-of-strings) |
