@@ -104,6 +104,7 @@
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/Prerna-2801/problem-solved/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Prerna-2801/problem-solved/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Prerna-2801/problem-solved/tree/master/1431-kids-with-the-greatest-number-of-candies) |
+| [1463-cherry-pickup-ii](https://github.com/Prerna-2801/problem-solved/tree/master/1463-cherry-pickup-ii) |
 | [1470-shuffle-the-array](https://github.com/Prerna-2801/problem-solved/tree/master/1470-shuffle-the-array) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1572-matrix-diagonal-sum](https://github.com/Prerna-2801/problem-solved/tree/master/1572-matrix-diagonal-sum) |
@@ -684,6 +685,7 @@
 | [0931-minimum-falling-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prerna-2801/problem-solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
+| [1463-cherry-pickup-ii](https://github.com/Prerna-2801/problem-solved/tree/master/1463-cherry-pickup-ii) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
 | [1976-number-of-ways-to-arrive-at-destination](https://github.com/Prerna-2801/problem-solved/tree/master/1976-number-of-ways-to-arrive-at-destination) |
 ## Matrix
@@ -709,6 +711,7 @@
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1260-shift-2d-grid](https://github.com/Prerna-2801/problem-solved/tree/master/1260-shift-2d-grid) |
 | [1391-check-if-there-is-a-valid-path-in-a-grid](https://github.com/Prerna-2801/problem-solved/tree/master/1391-check-if-there-is-a-valid-path-in-a-grid) |
+| [1463-cherry-pickup-ii](https://github.com/Prerna-2801/problem-solved/tree/master/1463-cherry-pickup-ii) |
 | [1572-matrix-diagonal-sum](https://github.com/Prerna-2801/problem-solved/tree/master/1572-matrix-diagonal-sum) |
 | [1631-path-with-minimum-effort](https://github.com/Prerna-2801/problem-solved/tree/master/1631-path-with-minimum-effort) |
 | [1672-richest-customer-wealth](https://github.com/Prerna-2801/problem-solved/tree/master/1672-richest-customer-wealth) |
