@@ -88,6 +88,7 @@
 | [0875-koko-eating-bananas](https://github.com/Prerna-2801/problem-solved/tree/master/0875-koko-eating-bananas) |
 | [0912-sort-an-array](https://github.com/Prerna-2801/problem-solved/tree/master/0912-sort-an-array) |
 | [0930-binary-subarrays-with-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0930-binary-subarrays-with-sum) |
+| [0931-minimum-falling-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0931-minimum-falling-path-sum) |
 | [0973-k-closest-points-to-origin](https://github.com/Prerna-2801/problem-solved/tree/master/0973-k-closest-points-to-origin) |
 | [0986-interval-list-intersections](https://github.com/Prerna-2801/problem-solved/tree/master/0986-interval-list-intersections) |
 | [0994-rotting-oranges](https://github.com/Prerna-2801/problem-solved/tree/master/0994-rotting-oranges) |
@@ -680,6 +681,7 @@
 | [0678-valid-parenthesis-string](https://github.com/Prerna-2801/problem-solved/tree/master/0678-valid-parenthesis-string) |
 | [0746-min-cost-climbing-stairs](https://github.com/Prerna-2801/problem-solved/tree/master/0746-min-cost-climbing-stairs) |
 | [0787-cheapest-flights-within-k-stops](https://github.com/Prerna-2801/problem-solved/tree/master/0787-cheapest-flights-within-k-stops) |
+| [0931-minimum-falling-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0931-minimum-falling-path-sum) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Prerna-2801/problem-solved/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/Prerna-2801/problem-solved/tree/master/1372-longest-zigzag-path-in-a-binary-tree) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Prerna-2801/problem-solved/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
@@ -701,6 +703,7 @@
 | [0733-flood-fill](https://github.com/Prerna-2801/problem-solved/tree/master/0733-flood-fill) |
 | [0832-flipping-an-image](https://github.com/Prerna-2801/problem-solved/tree/master/0832-flipping-an-image) |
 | [0867-transpose-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/0867-transpose-matrix) |
+| [0931-minimum-falling-path-sum](https://github.com/Prerna-2801/problem-solved/tree/master/0931-minimum-falling-path-sum) |
 | [0994-rotting-oranges](https://github.com/Prerna-2801/problem-solved/tree/master/0994-rotting-oranges) |
 | [1020-number-of-enclaves](https://github.com/Prerna-2801/problem-solved/tree/master/1020-number-of-enclaves) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Prerna-2801/problem-solved/tree/master/1091-shortest-path-in-binary-matrix) |
